@@ -10,10 +10,7 @@ const SectionAboutProject = () => (
     <Container>
       <S.Container>
         <S.Image>
-          <source
-            srcSet={require('@images/project.png?webp')}
-            type="image/webp"
-          />
+          <source srcSet={require('@images/project.png')} type="image/webp" />
           <source srcSet={require('@images/project.png')} type="image/png" />
           <img
             src={require('@images/project.png')}

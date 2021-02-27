@@ -32,7 +32,7 @@ const ReviewCard: React.FC<Props> = ({ id, name, image, description }) => {
       <S.User>
         <S.Image>
           <source
-            srcSet={require(`@images/reviews/${image}?webp`)}
+            srcSet={require(`@images/reviews/${image}`)}
             type="image/webp"
           />
           <source
