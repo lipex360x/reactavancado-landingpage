@@ -15,7 +15,6 @@ const SectionAboutProject = ({
   <S.Wrapper>
     <Container>
       <S.Container>
-        {console.log(image)}
         <S.Image src={getImageUrl(image.url)} />
         <div>
           <Heading>{title}</Heading>

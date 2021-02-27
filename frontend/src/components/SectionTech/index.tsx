@@ -10,7 +10,6 @@ import { getImageUrl } from 'utils/getImageUrl'
 const SectionTech = ({ title, techIcons }: SectionTechProps) => (
   <S.Wrapper>
     <Container>
-      {console.log(techIcons)}
       <Heading reverseColor>{title}</Heading>
       <S.IconsContainer>
         {techIcons.map(({ title, icon }) => (
