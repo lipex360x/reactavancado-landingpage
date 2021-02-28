@@ -14,7 +14,7 @@ const settings = {
   slidesToShow: 2,
   infinite: false,
   speed: 500,
-  rows: 2,
+  rows: 3,
   slidesPerRow: 1,
   slidesToScroll: 2,
   responsive: [

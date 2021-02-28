@@ -98,7 +98,21 @@ const GET_LANDING_PAGE = /* GraphQL */ `
         role
         description
         socialLinks {
+          url
           title
+        }
+      }
+    }
+  }
+
+  fragment sectionReviews on LandingPage {
+    sectionReviews {
+      title
+      reviews {
+        name
+        text
+        photo {
+          alternativeText
           url
         }
       }
@@ -116,6 +130,7 @@ const GET_LANDING_PAGE = /* GraphQL */ `
       ...sectionAgenda
       ...pricingBox
       ...sectionAboutUs
+      ...sectionReviews
     }
   }
 `
