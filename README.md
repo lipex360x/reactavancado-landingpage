@@ -56,4 +56,4 @@ Check more details to start this project in the back-end and front-end folders
 
 ---
 
-:point_up_2: [Go to Content Index](#bookmark_tabs-content-index)
+:point_up_2: [Go to Content Index](#bookmark_tabs-content-index) 
