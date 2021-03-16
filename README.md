@@ -1,6 +1,6 @@
 <h2 align="center">React Avançado - Landing Page</h2>
 <p align="center">Integration NextJS with Strapi and GraphQL</p>
-
+ 
 ---
 
 ![React Avançado](https://github.com/lipex360x/reactavancado-landingpage/blob/master/frontend/assets/screen.jpg)
