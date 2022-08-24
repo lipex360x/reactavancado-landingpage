@@ -35,24 +35,21 @@ Check more details to start this project in the back-end and front-end folders
 
 #### :zap: Backend Technologies
 
-```json
+```js
  Strapi
  GraphQL
 ```
-
-:rocket: [Go to Backend Folder](https://github.com/lipex360x/reactavancado-landingpage/tree/master/backend)
 
 ---
 
 #### :zap: Frontend Technologies
 
-```json
+```js
  NextJS
  Styled Components
  GraphQL
  Axios
 ```
-:rocket: [Go to Frontend Folder](https://github.com/lipex360x/reactavancado-landingpage/tree/master/frontend)
 
 ---
 
