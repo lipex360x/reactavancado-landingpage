@@ -35,7 +35,7 @@ Check more details to start this project in the back-end and front-end folders
 
 #### :zap: Backend Technologies
 
-```js
+```
  Strapi
  GraphQL
 ```
@@ -44,7 +44,7 @@ Check more details to start this project in the back-end and front-end folders
 
 #### :zap: Frontend Technologies
 
-```js
+```
  NextJS
  Styled Components
  GraphQL
